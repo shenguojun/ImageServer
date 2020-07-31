@@ -1,2 +1,2 @@
 # ImageServer
-Host for images which auto uploaded by PicGo.
+Host for uploaded images.
